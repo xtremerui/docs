@@ -348,7 +348,7 @@ configured multiple times with different parameters
     \warn{
       \code{var_sources} was introduced in Concourse v5.8.0. It is considered an
       \bold{experimental} feature until its associated
-      \link{RFC}{https://github.com/concourse/rfcs/pull/39} is resolved.
+      \link{Issue}{https://github.com/concourse/concourse/issues/5229} is resolved.
     }
 
     Var sources can be configured for a pipeline via
